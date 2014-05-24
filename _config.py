@@ -24,7 +24,7 @@
 # certificados da cacert.org, que podem exibir telas vermelhas em alguns
 # navegadores desatualizados.
 #
-site.url = "http://alguem.tem.blog.br"
+site.url = "http://paradigmadocaos.tem.blog.br"
 
 ## site.author -- Nome dx autorx do site.
 #
@@ -33,7 +33,7 @@ site.url = "http://alguem.tem.blog.br"
 # Caso alguma coisa seja colocada entre as aspas, então todo lugar onde
 # o site gera nome de autor vai ficar com este nome aqui.
 #
-site.author = ""
+site.author = "Paradigma do Caos"
 
 #### Configurações do blog ####
 #
@@ -86,14 +86,14 @@ blog.template_path = "_templates/blog"
 blog.path = "/blog"
 
 ## blog.posts_per_page -- Número de posts por página
-blog.posts_per_page = 1
+blog.posts_per_page = 15
 
 
 ## blog_name -- Nome do blog.
-blog.name = "Alguém Tem Blog .BR"
+blog.name = "Paradigma do Caos Poético"
 
 ## blog_description -- Descrição do blog. Aparece no feed RSS.
-blog.description = "Não tem blog? Aqui, \"alguém\" tem blog!"
+blog.description = "https://www.facebook.com/pages/O-Paradigma-do-Caos-Po%C3%A9tico/1418031755133855"
 
 ## Disqus
 #
@@ -104,8 +104,8 @@ blog.description = "Não tem blog? Aqui, \"alguém\" tem blog!"
 # Para não usar isto, troque 'True' para 'False' e remova ou comente a
 # linha blog.disqus.name
 #
-blog.disqus.enabled = True
-blog.disqus.name = "alguemtemblogbr"
+#blog.disqus.enabled = True
+#blog.disqus.name = "alguemtemblogbr"
 
 ## blog_googleanaltics_id -- ID do Google Analytics
 #blog.googleanlytics_id = "UA-XXXXX-X"
