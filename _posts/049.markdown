@@ -1,0 +1,13 @@
+---
+categories: Facebook
+date: 2014/05/09 03:00:00
+title: Sem título
+---
+
+Tudo bem, tudo bem, tudo bem. É presumível que as coisas funcionem assim.
+
+![prédio][1]
+
+[Publicação original](https://www.facebook.com/photo.php?fbid=1421552664781764&set=a.1418042228466141.1073741828.1418031755133855)
+
+[1]: ../../img/10312635_1421552664781764_8673994014270737846_n.png
