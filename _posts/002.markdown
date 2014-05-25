@@ -1,0 +1,11 @@
+---
+categories: Facebook
+date: 2014/04/30 21:43:00
+title: Capa
+---
+
+![Capa][1]
+
+[Publicação original](https://www.facebook.com/photo.php?fbid=1418032881800409&set=a.1418032925133738.1073741827.1418031755133855)
+
+[1]: ../../img/10247381_1418032881800409_2874110439653642254_n.jpg
