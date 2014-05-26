@@ -57,7 +57,7 @@ site.file_ignore_patterns = [
 ".*/CVS$",
 ]
 blog.auto_permalink.enabled = True
-blog.auto_permalink.path = ":blog_path/:year/:month/:day/:title_:filename"
+blog.auto_permalink.path = ":blog_path/:year/:month/:day/:title_:uuid"
 blog.custom_index = False
 blog.post_excerpts.enabled = False
 blog.post_default_filters = {
