@@ -1,7 +1,7 @@
 ---
 categories: Facebook
 date: 2014/04/30 21:44:00
-title: Mãe
+title: "Mãe"
 ---
 
 Mãe
@@ -18,3 +18,4 @@ No fundo
 O gerador e o nascimento da tragédia.
 
 [Publicação original](https://www.facebook.com/permalink.php?story_fbid=1418033621800335&id=1418031755133855)
+
