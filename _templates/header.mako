@@ -14,12 +14,10 @@ def nav_class(path):
     <ul class="theme_font">
       <li><a href="${bf.util.site_path_helper()}"
              class="${nav_class(bf.util.site_path_helper())}">In&iacute;cio</a></li>
-      <li><a href="${bf.util.site_path_helper(bf.config.blog.path)}"
-             class="${nav_class(bf.util.site_path_helper(bf.config.blog.path))}">Not&iacute;cias</a></li>
       <li><a href="${bf.util.site_path_helper(bf.config.blog.path,'archive')}"
              class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'archive'))}">Arquivo</a></li>
-	<li><a href="http://quem.tem.blog.br" target="_self">Quem tem blog&quest;</a></li>
-	<li><a href="http://ninguem.tem.blog.br" target="_self">Ninguém tem blog&excl;</a></li>
+      <li><a href="https://www.facebook.com/pages/O-Paradigma-do-Caos-Po%C3%A9tico/1418031755133855"
+             >P&aacute;gina no Facebook</a></li>
     </ul>
   </div>
 </header>
